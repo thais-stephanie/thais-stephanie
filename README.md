@@ -47,4 +47,4 @@ The focus is on making the workflow and its decisions understandable. I am docum
 
 ---
 
-Interested in the implementation details? **[Start with the case studies →](https://thais-stephanie.github.io/portfolio/#cases)**
+Interested in the implementation details? **[Explore my portfolio →](https://thais-stephanie.github.io/portfolio/)**
