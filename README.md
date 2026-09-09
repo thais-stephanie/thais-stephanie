@@ -1,6 +1,6 @@
-# Hi, I'm Thaís Holanda
+# Hi, I'm Thaís Holanda👋
 
-### Solutions Engineering · Systems Integration · Automation
+### Solutions Engineering · GTM Systems Integration · Automation
 
 I turn operational problems into connected, reliable systems.
 
