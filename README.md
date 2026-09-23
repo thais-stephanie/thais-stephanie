@@ -1,3 +1,5 @@
+[![hi, i'm thaís. i make business systems talk to each other. Then I put AI agents on top, with guardrails. AI Systems & Automation Engineer.](assets/cover.webp)](https://thais-stephanie.github.io/portfolio/)
+
 # Hi, I'm Thaís Holanda 👋
 
 ### AI Agent & Automation Engineer · Business Systems · Revenue Operations
