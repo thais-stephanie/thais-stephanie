@@ -1,5 +1,3 @@
-E ficaria bem nessa posição:
-
 <p align="center">
   <img src="./assets/cover.webp" alt="Thaís Holanda — AI Systems & Automation Engineer" width="100%">
 </p>
