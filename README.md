@@ -1,20 +1,28 @@
-[![hi, i'm thaís. i make business systems talk to each other. Then I put AI agents on top, with guardrails. AI Systems & Automation Engineer.](assets/cover.webp)](https://thais-stephanie.github.io/portfolio/)
+E ficaria bem nessa posição:
 
-# Hi, I'm Thaís Holanda 👋
+<p align="center">
+  <img src="./assets/cover.webp" alt="Thaís Holanda — AI Systems & Automation Engineer" width="100%">
+</p>
 
-### AI Agent & Automation Engineer · Business Systems · Revenue Operations
+<p align="center">
+  <a href="https://thais-stephanie.github.io/portfolio/"><strong>Portfolio</strong></a>
+  ·
+  <a href="https://www.linkedin.com/in/thaisstephanie/">LinkedIn</a>
+  ·
+  <a href="mailto:contato@thaisholanda.com">Email</a>
+</p>
 
-I build practical AI agents, internal tools and automation systems that turn messy business data into reliable action.
+I build **AI agents, automations and integrations on top of real business systems**.
 
-My background sits at the intersection of **AI systems, workflow automation, CRM/RevOps, integrations and operational data**. I’ve spent 8+ years turning ambiguous business problems into production systems across Finance, Customer Success, Revenue Operations and business operations — from discovery and architecture through implementation, testing, monitoring and user adoption.
+My background spans 8+ years across CRM, billing, Revenue Operations, Finance, recruiting, internal tools and data systems. I’ve owned systems from discovery and architecture through implementation, testing, monitoring and adoption.
 
-Today I’m focused on applying the same reliability discipline to **LLM agents**: constrained tools, structured outputs, deterministic business rules, evaluations, guardrails and human approval where actions carry risk.
+Today I’m focused on **tool-using AI agents and reliable LLM systems**: deterministic business logic where it belongs, constrained tools, structured outputs, evaluations, release gates, guardrails and human approval for high-impact actions.
 
-Based in Fortaleza, Brazil · Remote worldwide
+📍 Fortaleza, Brazil · UTC−3 · Remote worldwide
 
-**[Explore my portfolio](https://thais-stephanie.github.io/portfolio/)** · [LinkedIn](https://www.linkedin.com/in/thaisstephanie/) · [Email](mailto:contato@thaisholanda.com)
+<br>
 
----
+![Selected outcomes](./assets/metrics-selected-outcomes.png)
 
 ## What I'm building now
 
